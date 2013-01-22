@@ -86,11 +86,11 @@ console.log(foo[{}]);
 $ nodeunit test.js
 ```
 
-Expected Ooutput:
+Expected output:
 ```
 test.js
 ✔ testHash
 ✔ testMd5Hash
 
 OK: 2 assertions (18ms)
-``
+```
