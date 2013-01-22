@@ -1,0 +1,12 @@
+{
+    "name":"es-hash",
+    "version":"1.0.1",
+    "author": "Till Ehrengruber <t.ehrengruber@me.com>",
+    "keywords": ["hash", "object hash", "object array key"],
+    "repository": { "type": "git", "url": "https://bitbucket.org/tehrengruber/es-js-hash" },
+    "description":"Small library to create hashes from objects",
+    "main":"es-hash.js",
+    "dependencies": {
+        "node_hash": ">=0.2.0"
+    }
+}
